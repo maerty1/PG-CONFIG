@@ -1,5 +1,9 @@
 # virt82
+
 18 CPU(s) - AMD Ryzen 9 7950X
+
 48 GB - 4 x KF560C36BBE-32
+
 120 GB - 4 x GP-AG70S2TB-P
+
 MB - X670 GAMING X AX
